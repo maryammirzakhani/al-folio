@@ -2,33 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: _Mathematician and Scientist_ 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: maryam.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<div align="justify">
+<P>Maryam Mirzakhani was a groundbreaking Iranian mathematician born in Tehran in 1977. As a teenager, she won two gold medals at the International Mathematical Olympiad, achieving a perfect score in 1995. She earned her Ph.D. from Harvard University, where she studied under Curtis McMullen and focused on hyperbolic geometry and related areas.<P>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<P>Her research connected several complex fields, including Riemann surfaces, moduli spaces, and Teichmüller theory. In 2014, she became the first woman and the first Iranian to win the Fields Medal, one of the highest honors in mathematics. Her work was known for its depth and for linking distant areas of math in innovative ways.<P>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<P>Mirzakhani had a unique, visual approach to problem-solving, often covering pages with sketches before formalizing ideas. She was a professor at Stanford and a mentor to many. She passed away from breast cancer in 2017, but her legacy continues to inspire future generations, especially women in science and math.<P>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
