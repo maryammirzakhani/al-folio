@@ -1,3 +1,10 @@
+navbar-links:
+  About: "about"
+  Blog: "blog"
+  Publications: "publications"
+  Projects: "projects"
+  CV: "cv"
+
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
